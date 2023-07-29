@@ -54,7 +54,7 @@
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
     --bg-image: https://user-images.githubusercontent.com/79029257/132885766-58a204cf-4941-4143-a3d2-7d9eec948c2c.png; /* Write the image url, example url("your url") [none is default]*/
-    --opacity: 60; /* Value in numbers from 0 to 1, but there is a limit */
+    --opacity: 1; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
@@ -101,3 +101,4 @@
 /*------------------------------------------------------
                 anything else down here
 ------------------------------------------------------*/
+
