@@ -34,14 +34,14 @@
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
 
 /* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
+/* @import /* url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
 
 /*------------------------------------------------------
                 all the customization
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "KAE.KO14";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -53,8 +53,8 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
-    --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
+    --bg-image: https://user-images.githubusercontent.com/79029257/132885766-58a204cf-4941-4143-a3d2-7d9eec948c2c.png; /* Write the image url, example url("your url") [none is default]*/
+    --opacity: 60; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
@@ -80,8 +80,8 @@
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --channeltextarea-background: #333333;
+    --text-color: #FFFFFF;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
