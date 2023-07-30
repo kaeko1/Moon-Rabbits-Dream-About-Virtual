@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "your mom";
+    --custom-text: "あなたのお母さんは私が大好き";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -53,7 +53,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: https://user-images.githubusercontent.com/79029257/132885766-58a204cf-4941-4143-a3d2-7d9eec948c2c.png; /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: ![image](https://user-images.githubusercontent.com/79029257/224162016-7d1bf1b8-3a2b-407f-b725-168d1572ed00.png)  /* Write the image url, example url("your url") [none is default]*/
     --opacity: 1; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
@@ -81,7 +81,7 @@
 
     /* Chatbar Colors */
     --channeltextarea-background: #333333;
-    --text-color: #DBD3D6;
+    --text-color: #D9D1D4;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
